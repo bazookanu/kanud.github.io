@@ -8,7 +8,6 @@ permalink:        pretty
 # Setup
 title:            kanu’s blog
 tagline:          ‘hacks and bets’
-description:      '<a href="https://twitter.com/KanuDeshpande”>@KanuDeshpande</a>'
 url:              http://kanud.github.io
 baseurl:          http://kanud.github.io/kanublog/
 

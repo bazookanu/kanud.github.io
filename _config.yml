@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            kanublog
-url:              http://kanud.github.io
+url:              http://kanud.github.io/kanublog
 baseurl:          http://kanud.github.io/kanublog/
 paginate:         5
 

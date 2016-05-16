@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            kanu’s blog
+tagline:          ‘hacks and bets’
+description:      '<a href="https://twitter.com/KanuDeshpande” target="_blank”>@KanuDeshpande</a>.'
+url:              http://kanud.github.io/kanublog/
+baseurl:          “http://kanud.github.io/kanublog/”
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

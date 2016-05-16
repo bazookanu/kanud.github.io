@@ -9,11 +9,6 @@ permalink:        pretty
 title:            kanublog
 url:              http://kanud.github.io
 baseurl:          http://kanud.github.io/kanublog/
-
-author:
-  name:           'Chinmay Deshpande'
-  url:            https://twitter.com/KanuDeshpande
-
 paginate:         5
 
 # Custom vars

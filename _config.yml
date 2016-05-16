@@ -6,13 +6,13 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            kanu’s blog
-tagline:          ‘hacks and bets’
+title:            kanublog
+tagline:          'hacks and bets'
 url:              http://kanud.github.io
 baseurl:          http://kanud.github.io/kanublog/
 
 author:
-  name:           ‘Chinmay Deshpande’
+  name:           'Chinmay Deshpande'
   url:            https://twitter.com/KanuDeshpande
 
 paginate:         5

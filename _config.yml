@@ -8,13 +8,15 @@ permalink:        pretty
 # Setup
 title:            kanublog
 tagline:          hacks and bets
-url:              http://kanud.github.io
-baseurl:          http://kanud.github.io/
-
+url:              http://kanud.github.io/kanublog
+baseurl:          http://kanud.github.io/kanublog/
 paginate:         5
 
 # Custom vars
-version:          0.0.1
-
+version:             0.0.1
 github:
-  repo:           https://github.com/kanud/kanud.github.io
+  repo:              https://github.com/kanud/kanublog
+
+gems:
+- jekyll-gist
+- jekyll-paginate

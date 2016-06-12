@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Shit I've Done
+title: Shit I've Done
 ---
 
 <div class="pre" >This is another get-to-know-me post. So don't read it unless you really have to.

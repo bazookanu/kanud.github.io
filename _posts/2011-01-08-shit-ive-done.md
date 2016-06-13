@@ -2,6 +2,7 @@
 layout: post
 title: Shit I've Done
 ---
+
 <div class="pre" >This is another get-to-know-me post. So don't read it unless you really have to.
 <div class="pre" >There are 4 people in this absolutely true story. I'll call them Pony, CocaCola (let's shorten that to Cola),?S and I.?Pony and Cola were pretty good friends. Actually everyone found Cola irritating, so you might guess what a "pretty good" friendship means. S was a complete asshole, retard, moron and all that. That's all the characters introduced. Oh, and this happened when I was in the 10th grade.</div>
 <div class="pre" >As I've said, I can be a pain. I used to do these irritating things like hiding your bag. Or stealing your stuff. Sometimes I used to get really creative but people tend not to notice that when you're being a total ass. So on this day I had kept all of Pony's stationery in his lunch box and he had spent the whole?morning looking for it. Something like that, I forget. Now, when you're in that I-am-Dennis-the-Menace mood you don't count on people giving it back to you. So I didn't count on Pony and Cola stealing my bag, S joining them later in the toilet and ,the?three?of them, placing it in a urinal and flushing. I'm pretty sure they actually did it. I don't know for sure as I didn't see any of it happening, all I saw was my bag lying wet on the ground in the afternoon sun. Till now this looks like a somewhat average-ish incident that might happen in someone's school life. Wait for it. The clue is in the title.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Trek In Uttarakhand: Part II
+title: "My Trek In Uttarakhand: Part II"
 ---
 Nature's fury, everyone said. Nature didn't look furious at all. The rain poured as it pleased, on an unknown schedule, oblivious to my glowering at it and a thousand people's tears. The river frothed and crashed against itself, its currents converging now and diverging later, sometimes circling in eddies, tiny and huge, as if on some urgent, secret purpose. Nature don't give a shit.
 

@@ -10,7 +10,7 @@ title:            kanublog
 tagline:          hacks and bets
 url:              http://kanud.github.io
 baseurl:          http://kanud.github.io/
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:             0.0.1

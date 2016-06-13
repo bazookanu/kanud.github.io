@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Trek In Uttarakhand: Epilogue
+title: "My Trek In Uttarakhand: Epilogue"
 ---
 As Uttarakhand and the country was<span style="color:#000000;" > <del >trying to make sense of</del>?</span>assigning blame for the disaster, we had a pleasant stay at our guest house in Tehri. It was a beautiful place.
 Thanks to Lawyer's contacts, some of us were able to go inside (under?) the Tehri dam, where they keep the turbines and transformers. You need a security clearance for the place, so does the car you come in. We messed this up in a way so that only half of us got the security clearance.

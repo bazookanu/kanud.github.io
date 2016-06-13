@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing Part I: Marketing vs Designers
+title: "Marketing Part I: Marketing vs Designers"
 ---
 'Why don't you make this text yellow?', I was asked, 'the white is looking subdued.'
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Muggas : Part 0
+title:  "Muggas : Part 0"
 ---
 It's that time of the year again. Some guy came to me for advice regarding engineering admissions, so I thought I should write a post. It's easy to forget how (naive) we were before we signed up for engineering. I remember because I wrote some of it down.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: d3.js Hack: How Does the BITS Goa '09 Network Look?
+title: "d3.js Hack: How Does the BITS Goa '09 Network Look?"
 ---
 <em ><strong >It looks like shit</strong></em>:?<a href="http://tvamev.in/index.htm" >http://tvamev.in/index.htm</a>?(Super slow+ CPU intensive, click with caution)
 

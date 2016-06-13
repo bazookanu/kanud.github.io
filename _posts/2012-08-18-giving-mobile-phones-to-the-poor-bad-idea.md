@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giving Mobile Phones to the Poor: Bad Idea?
+title: "Giving Mobile Phones to the Poor: Bad Idea?"
 ---
 'A mobile phone for every Indian!' says Manmohan (or was it Sonia?). The phones apparently cost a thousand rupees each and come with two hundred rupees worth of talk time. There are seventy million BPL persons in India eligible for this scheme, so BOOM! <em >Eight to nine thousand crore rupees!</em> BAD IDEA! The economy is in a bad state! We can't afford this!
 

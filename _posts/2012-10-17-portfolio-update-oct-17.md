@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portfolio Update- Oct 17
+title: "Portfolio Update- Oct 17"
 ---
 <a href="http://kanudeshpande.wordpress.com/2012/10/17/portfolio-update-oct-17/oct17/" rel="attachment wp-att-831" ><img class="aligncenter size-full wp-image-831" title="Oct17" alt="" src="http://kanudeshpande.files.wordpress.com/2012/10/oct17.jpg" height="170" width="580" ></img></a>
 

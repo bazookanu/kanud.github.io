@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BITS New Venture Creation: Idea to Opportunity- I
+title: "BITS New Venture Creation: Idea to Opportunity- I"
 ---
 Somewhat in the style of <a href="http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CF0QFjAA&url=http%3A%2F%2Fblakemasters.tumblr.com%2F&ei=0cwkUMrNHsrNrQfW24CoBw&usg=AFQjCNG8MnS6BJYggNYNkoBCa_TPgaulAg" >that guy from Stanford</a>, I?ve thought of putting up my <a href="http://celbits.org/nvc.php" >NVC</a> class notes online and see how it pans out. I?m not spending a lot of time on this, so pardon my incoherence or grammatical errors. Also, these are <em >my</em> notes, so please appreciate there may be errors in my understanding.
 This week?s speaker was <a href="twitter.com/mukund" >Mukund Mohan</a>, speaking on how to go from idea to opportunity.

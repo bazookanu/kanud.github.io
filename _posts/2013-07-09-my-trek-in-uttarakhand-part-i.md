@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Trek In Uttarakhand: Part I
+title: "My Trek In Uttarakhand: Part I"
 ---
 'I love this weather! I wanted it to rain!', I told Scientist. It was five in the morning, raining heavily, and she was complaining that constant rain would ruin the trek. I didn't see it. Hadn't we come here to be uncomfortable, I thought. Rain would be perfect.
 

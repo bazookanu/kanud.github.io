@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Trek In Uttarakhand: Prologue
+title: "My Trek In Uttarakhand: Prologue"
 ---
 About a lakh in all. That, I saw last year, would be the amount of my earnings from my internship next year. I didn't think much of it, but it did feel like a nice, substantial number.
 

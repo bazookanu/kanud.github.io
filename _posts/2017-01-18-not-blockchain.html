@@ -1,0 +1,16 @@
+---
+layout: post
+title: Bitcoin, not Blockchain
+---
+
+<p>Bitcoin is a system to order transactions. Currently, it can handle a grand total of 7 transactions per second (any more and they'll get queued). In the medium term at least, the throughput of the system is limited by the number of transactions a single server (or node) can handle.</p>
+<h3>Why does anyone want Bitcoin?</h3>
+<p>Even worse, a node in the Bitcoin network listens to all the transactions that all other nodes generate, tries to come to consensus on their order, and stores the entire transaction history. If the throughput is limited by a single node anyway, why not have a single server that serializes all the transactions in the network? Stated imprecisely, Bitcoin has the following properties:<ol> 
+<li>Anyone can join the network as a node</li>
+<li>No single node is in charge</li></ol>
+</p>
+<p>Even these vague conditions immediately present problems:<ol>
+<li>The number of nodes could grow without bounds. Nodes could go offline at will.</li>
+<li>The nodes could be anywhere in the world, with good or poor network connections. There are no guarantees on when (if at all) a node gets a message sent by another node.</li>
+<li>Nodes could actively try to attack the network</li>
+<li>Honest nodes should be able to come to a consensus on the order of transactions without having to trust another node</li></ol> 

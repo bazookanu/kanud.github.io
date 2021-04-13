@@ -5,8 +5,9 @@
      <meta http-equiv="refresh" id="refresh-link" content="1;url={{ page.redirect1 }}"/>
      <link rel="canonical" id="canonical-link" href="{{ page.redirect1 }}"/>
      <script type="text/javascript">
-     		 var time = new Date().getMinutes();
-     		 if (time % 2 == 0) {
+             var curTime = new Date();
+             var weddingTime = new Date(Date.parse("24 Apr 2021 05:00:00 +0530"));
+     		 if (curTime < weddingTime) {
              	window.location.href = "{{ page.redirect1 }}";
              } else {
              	window.location.href = "{{ page.redirect2 }}";

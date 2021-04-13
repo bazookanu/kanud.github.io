@@ -1,22 +1,22 @@
 <html>
  <head>
      <meta charset="utf-8"/>
-     <meta http-equiv="refresh" id="refresh-link" content="1;url={{ page.redirect_1 }}"/>
-     <link rel="canonical" id="canonical-link" href="{{ page.redirect_1 }}"/>
+     <meta http-equiv="refresh" id="refresh-link" content="1;url={{ page.redirect1 }}"/>
+     <link rel="canonical" id="canonical-link" href="{{ page.redirect1 }}"/>
      <script type="text/javascript">
      		 var time = new Date().getMinutes();
      		 if (time % 2 == 0) {
-             	window.location.href = "{{ page.redirect_1 }}";
+             	window.location.href = "{{ page.redirect1 }}";
              } else {
-             	window.location.href = "{{ page.redirect_2 }}";
-                document.getElementById("refresh-link").setAttribute("content", "1;url={{ page.redirect_2 }}");
-                document.getElementById("canonical-link").setAttribute("href", "{ page.redirect_2 }}");
-                document.getElementById("body-link").setAttribute("href", "{ page.redirect_2 }}");
+             	window.location.href = "{{ page.redirect2 }}";
+                document.getElementById("refresh-link").setAttribute("content", "1;url={{ page.redirect2 }}");
+                document.getElementById("canonical-link").setAttribute("href", "{ page.redirect2 }}");
+                document.getElementById("body-link").setAttribute("href", "{ page.redirect2 }}");
          	 }
      </script>
      <title>Page Redirection</title>
  </head>
  <body>
- If you are not redirected automatically, <a id='body-link' href='{{ page.redirect_1 }}'>click here</a>.
+ If you are not redirected automatically, <a id='body-link' href='{{ page.redirect1 }}'>click here</a>.
  </body>
  </html>redirect.html
